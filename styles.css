@@ -1,62 +1,51 @@
-html {
-    font-size: 62.5%; /* sets the base font-size to 10px */
-}
-
-a {
+a{
     color: #056676;
-    padding: 1.25rem; /* 12.5px */
+    padding: 20px;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
-}
-
-a:hover {
+    }
+a:hover{
     color: #FEA82F;
 }
-
 body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
     color: #40514E;
-}
-
-h1 {
-    margin-top: 3.12rem; /* 31.2px */
+    }
+h1{
+    margin-top: 3.12rem;
     margin-bottom: 0;
     font-family: 'Montez', cursive;
-    font-size: 5.625rem; /* 56.25px */
+    font-size: 562.5%;
     left: auto;
     right: auto;
     color: #056676;
-}
-
-h2 {
+    }
+h2{
     font-family: 'Montserrat', sans-serif;
     font-weight: normal;
-    padding: 0.625 rem; /* 6.25px */
+    padding: 10px;
     color: #056676;
-}
-
-h3 {
-font-family: 'Montserrat', sans-serif;
-color: #056676;
-}
-
-hr {
-border-color: #FCF8EC;
-border-style: dotted;
-border-bottom: 0;
-border-right: 0;
-border-left: 0;
-width: 5%;
-border-width: 0.625rem; /* 6.25px */
-margin: 5.625rem auto;
-}
-
-p {
-line-height: 2;
-}
-
+    padding: 10px;
+    }
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #056676;
+    }
+hr{
+    border-color: #FCF8EC;
+    border-style: dotted;
+    border-bottom: 0;
+    border-right: 0;
+    border-left: 0;
+    width: 5%;
+    border-width: 10px;
+    margin: 90px auto;
+    }
+p{
+    line-height: 2;
+    }
 ul{
     line-height: 2;
     margin-top: 0;
@@ -64,19 +53,17 @@ ul{
     color: #40514E;
     text-align: justify;
 }
-
 .work-description{
-    margin-left: 34.375rem; /* 343.75px */
-    margin-right: 34.375rem; /* 343.75px */
+    margin-left: 55px;
+    margin-right: 55px;
 }
+
 
 /* ---------------------CLASSES-------------------------------*/
-
-.bottom-container {
+.bottom-container{
     margin: 0;
     background-color: white;
-}
-
+    }
 .btn {
   background: #056676;
   background-image: -webkit-linear-gradient(top, #00E0FF, #056676);
@@ -84,16 +71,15 @@ ul{
   background-image: -ms-linear-gradient(top, #00E0FF, #056676);
   background-image: -o-linear-gradient(top, #00E0FF, #056676);
   background-image: linear-gradient(to bottom, #00E0FF, #056676);
-  -webkit-border-radius: 0.28rem; /* 2.8px */
-  -moz-border-radius: 0.28rem; /* 2.8px */
-  border-radius: 1.75rem; /* 17.5px */
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 1.75rem; /* 17.5px */
-  padding: 0.625rem 0.625rem 0.625rem 0.625rem; /* 6.25px */
-    text-decoration: none;
-}
-
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+    }
 .btn:hover {
   background: #056676;
   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
@@ -103,162 +89,149 @@ ul{
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
   color: white;
-}
-
-.cat {
+    }
+.cat{
     position: absolute;
-    top: 2rem; /* 20px */
-    right: 8rem; /* 80px */
-}
-
-
+    top: 20%;
+    right: 80%;
+    }
 .c-rights{
-    color: #056676;
-    font-size: 0.75rem; /* 7.5px */
+    color: #056676
+    font-size: 0.75rem;
     line-height: 1;
     border: 0;
-    margin: 0;
-}
-
+    margin:0;
+    }
 .contact-me{
     width: 40%;
     margin: 0 auto;
-}
-
+    }
 .education.exp{
     text-align: left;
 }
-
 .hi{
-    margin-top: 268.75rem; /* 2687.5px */
-    height: 18.75rem; /* 187.5px */
+    margin-top: 430px;
+    height: 300px;
     position: relative;
     border: 0;
     bottom: 0;
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
-}
 
+    }
 .footer-link{
-    margin-top: 1.25rem; /* 12.5px */
+    margin-top: 20px;
     display: inline-block;
     color: #51C4D3;
     line-height: 1;
-}
+    }
 
 .icon-education{
     background-color: white;
     border-radius: 50%;
-    padding: 1.875rem; /* 18.75px */
+    padding: 30px;
     width: 15%;
     float: left;
-    margin-right: 0.875rem; /* 8.75px */
-}
+    margin-right: 30px;
 
+    }
 .icon-work{
     background-color: white;
     border-radius: 50%;
-    padding: 0.875rem; /* 8.75px */
+    padding: 30px;
     width: 15%;
     float: right;
-    margin: 1.875rem 0 0 1.875rem; /* 18.75px */
-}
-
+    margin: 30px 0 0 30px;
+    }
 .middle-container{
     background-color: #D0E8F2;
-    margin-left: 6.25rem; /* 625px */
-    margin-right: 6.25rem; /* 625px */
-    padding-bottom: 1.875rem; /* 18.75px */
-}
-
-.middle-container-edu{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 30px;
+    }
+    .middle-container-edu{
     background-color: #D0E8F2;
-    margin-left: 6.25rem; /* 625px */
-    margin-right: 6.25rem; /* 625px */
-}
-
+    margin-left: 100px;
+    margin-right: 100px;
+    }
 .more-right{
     float: right;
-    margin-right: 2.3rem; /* 23px */
-}
-
+    margin-right: 23%;
+    }
 .paw-1{
     position: absolute;
     left: 18%;
     bottom: 40%;
-}
-
+    }
 .paw-2{
     position: absolute;
     left: 15%;
     bottom: 45%;
-}
-
+    }
 .paw-3{
     position: absolute;
     left: 18%;
     bottom: 50%;
-}
-
+    }
 .paw-4{
     position: absolute;
     left: 15%;
     bottom: 55%;
-}
+    }
 
 .paw-9{
     position: absolute;
     right: 18%;
-    top: 37.5rem;
+    top: 590px;
     }
 .paw-10{
     position: absolute;
     right: 15%;
-    top: 34.375rem;
+    top: 550px;
     }
 .paw-11{
     position: absolute;
     right: 18%;
-    top: 31.875rem;
+    top: 510px;
     }
 .paw-12{
     position: absolute;
     right: 15%;
-    top: 29.375rem;
+    top: 470px;
     }
 
 .profile{
-    padding: 1.25rem;
+    padding: 20px;
     }
 .skill-row{
     width: 90%;
     margin-right: auto;
     margin-left: auto;
-    margin-top 6.25rem;
-    margin-bottom 6.25rem;
+    margin-top 100px;
+    margin-bottom 100px;
     text-align: justify;
     }
 .summary{
     text-align: justify;
-    padding: 0.625rem;
-    margin: 0.625rem;
+    padding: 10px;
+    margin: 10px
     }
 .text{
     position: absolute;
-    left: 2875%;
-    top: 9.375rem;
+    left: 460px;
+    top: 150px;
     }
 .top-container{
     background-color: white;
-    height: 4.59rem;
+    height: 45.9rem;
     position: relative;
-    padding-top 6.25rem;
+    padding-top 100px;
     }
 
 .work-exp{
     text-align: right;
-    margin-right: 0.23rem;
+    margin-right: 23%;
 }
 .top-links{
     position: fixed;
@@ -317,11 +290,11 @@ ul{
   background: #056676;
   text-decoration: none;
   color: white;
-}
+  }
 /*-------------------------IDS-------------------------------*/
 
 #statement{
-    font-size: 0.9375rem;
+    font-size: 15px;
     margin-top: 0;
     left: auto;
     right: auto;
@@ -330,32 +303,32 @@ ul{
 /*--------------------EDUCATION SPECIFIC------------------*/
 .author{
     font-family: 'Montez', cursive;
-    font-size: 2rem;
+    font-size: 200%;
     left: auto;
     right: auto;
     color: #056676;
     position: absolute;
-    margin-top: 23rem;
+    margin-top: 23.0rem;
     margin-left: 70rem;
 }
 .edu-skills{
-    padding-top: 3.125rem;
+    padding-top: 50px;
 }
 .institution{
     font-size: 0.80rem;
 }
 .img-education{
-    padding: 1.875rem;
+    padding: 30px;
     width: 10%;
     float: left;
-    margin-right: 1.875rem;
+    margin-right: 30px;
     }
 .quote-edu{
-    margin-top: 15rem;
+    margin-top: 15.0rem;
     position: absolute;
     margin-left: 30rem;
     margin-right: 5rem;
-    font-size: 3rem;
+    font-size: 300%;
     text-align: right;
 
 }
@@ -364,53 +337,53 @@ ul{
     background-color: white;
     height: 45.9rem;
     position: relative;
-    padding-top 6.25rem;
+    padding-top 100px;
     }
   .top-img-edu{
-  margin-left: 0.10rem;
-  margin-top: 0.1rem;
+  margin-left: 10%;
+  margin-top: 10%;
   float: left;
   width: 20%;
   }
 
 /*-----------------MY EXPERIENCE------------ */
 .top-img-work{
-  margin-top: 0.1rem;
+  margin-top: 10%;
   width: 15%;
 
 }
 .quote-work{
-    margin-top: 3rem;
-    font-size: 3rem;
+    margin-top: 3.0rem;
+    font-size: 300%;
     text-align: center;
-    margin-right 0.05rem;
-    margin-left 0.05rem;
-    padding-right: 0.02rem;
-    padding-left: 0.02rem;
+    margin-right 5%;
+    margin-left 5%;
+    padding-right: 2%;
+    padding-left: 2%;
 
 }
 .author-work{
     font-family: 'Montez', cursive;
-    font-size: 2rem;
+    font-size: 200%;
     left: auto;
     right: auto;
     color: #056676;
     position: absolute;
-    margin-top: 1rem;
+    margin-top: 1.0rem;
     margin-left: 77rem;
 }
 .work-logo{
     width: 5%;
     float: left;
-    margin-right: 1.875rem;
+    margin-right: 30px;
     }
 .work-description{
     clear: left;
-    margin-top: 3.125rem;
+    margin-top: 50px;
     line: 2;
 }
 .workplace{
-    padding-top: 0.9375rem;
+    padding-top: 15px;
 }
 
 /*--------------------MORE DETAILS----------------*/
@@ -418,14 +391,14 @@ ul{
 
 .top-links-more-info{
     position: fixed;
-    left: 0.85rem;
-    margin-top: 1.25rem;
+    left: 85%;
+    margin-top: 20px;
     }
 .middle-container-more-info{
     background-color: #D0E8F2;
-    margin-left: 9.375rem;
-    margin-right: 9.375rem;
-    margin-top: 1.875rem;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 30px;
     }
 .offeredby{
     margin: 0;
@@ -436,8 +409,8 @@ table{
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-top: 1.875rem;
-    padding-bottom: 1.875rem;
+    margin-top: 30px;
+    padding-bottom: 30px;
 }
 th{
     font-family: 'Montserrat', sans-serif;
@@ -447,8 +420,8 @@ th{
 
 .img-more-info{
     width: 15%;
-    margin-top: 0.08rem;
-    border-radius: 50%;
+    margin-top: 8%;
+    border-radius: 50%
 }
 td{
     font-family: 'Merriweather', serif;
@@ -460,24 +433,24 @@ td{
 
 .ctc{
     position: absolute;
-    margin-top: 0.02rem;
-    margin-left: 0.40rem;
-    padding-top: 0.05rem;
+    margin-top: 2%;
+    margin-left: 40%;
+    padding-top: 5%;
 }
 .thanks-ctc{
     position: absolute;
     width: 80%;
-    margin-left: 0.1rem;
-    margin-right: 0.1rem;
+    margin-left: 10%;
+    margin-right: 10%;
     font-size: 1rem;
     line-height: 2;
-    padding-top: 5.625rem;
+    padding-top: 90px;
 
 }
 
 .phone{
     width: 20%;
-    padding-top: 0.13rem;
+    padding-top: 13%;
 }
 
 .img-ctc{
