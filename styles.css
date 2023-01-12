@@ -1,6 +1,6 @@
 a{
     color: #056676;
-    padding: 20px;
+    padding: 125%;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
     }
@@ -14,7 +14,7 @@ body {
     color: #40514E;
     }
 h1{
-    margin-top: 3.12rem;
+    margin-top: 312%;
     margin-bottom: 0;
     font-family: 'Montez', cursive;
     font-size: 562.5%;
@@ -25,9 +25,8 @@ h1{
 h2{
     font-family: 'Montserrat', sans-serif;
     font-weight: normal;
-    padding: 10px;
+    padding: 62.5%;
     color: #056676;
-    padding: 10px;
     }
 h3{
     font-family: 'Montserrat', sans-serif;
@@ -40,8 +39,8 @@ hr{
     border-right: 0;
     border-left: 0;
     width: 5%;
-    border-width: 10px;
-    margin: 90px auto;
+    border-width: 62.5%;
+    margin: 562.5% auto;
     }
 p{
     line-height: 2;
@@ -54,8 +53,8 @@ ul{
     text-align: justify;
 }
 .work-description{
-    margin-left: 55px;
-    margin-right: 55px;
+    margin-left: 343.75%;
+    margin-right: 343.75%;
 }
 
 
@@ -73,11 +72,11 @@ ul{
   background-image: linear-gradient(to bottom, #00E0FF, #056676);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
-  border-radius: 28px;
+  border-radius: 175%;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  font-size: 175%;
+  padding: 62.5% 125% 62.5% 125%;
   text-decoration: none;
     }
 .btn:hover {
@@ -97,7 +96,7 @@ ul{
     }
 .c-rights{
     color: #056676
-    font-size: 0.75rem;
+    font-size: 75%;
     line-height: 1;
     border: 0;
     margin:0;
@@ -110,8 +109,8 @@ ul{
     text-align: left;
 }
 .hi{
-    margin-top: 430px;
-    height: 300px;
+    margin-top: 2687.5%;
+    height: 1875%;
     position: relative;
     border: 0;
     bottom: 0;
@@ -121,7 +120,7 @@ ul{
 
     }
 .footer-link{
-    margin-top: 20px;
+    margin-top: 125%;
     display: inline-block;
     color: #51C4D3;
     line-height: 1;
@@ -130,30 +129,30 @@ ul{
 .icon-education{
     background-color: white;
     border-radius: 50%;
-    padding: 30px;
+    padding: 187.5%;
     width: 15%;
     float: left;
-    margin-right: 30px;
+    margin-right: 87.5%;
 
     }
 .icon-work{
     background-color: white;
     border-radius: 50%;
-    padding: 30px;
+    padding: 87.5%;
     width: 15%;
     float: right;
-    margin: 30px 0 0 30px;
+    margin: 187.5% 0 0 187.5%;
     }
 .middle-container{
     background-color: #D0E8F2;
-    margin-left: 6.25rem;
-    margin-right: 6.25rem;
-    padding-bottom: 1.875rem;
+    margin-left: 625%;
+    margin-right: 625%;
+    padding-bottom: 187.5%;
     }
     .middle-container-edu{
     background-color: #D0E8F2;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 625%;
+    margin-right: 625%;
     }
 .more-right{
     float: right;
@@ -183,50 +182,50 @@ ul{
 .paw-9{
     position: absolute;
     right: 18%;
-    top: 590px;
+    top: 3687.5%;
     }
 .paw-10{
     position: absolute;
     right: 15%;
-    top: 550px;
+    top: 3437.5%;
     }
 .paw-11{
     position: absolute;
     right: 18%;
-    top: 510px;
+    top: 3187.5%;
     }
 .paw-12{
     position: absolute;
     right: 15%;
-    top: 470px;
+    top: 2937.5%;
     }
 
 .profile{
-    padding: 20px;
+    padding: 125%;
     }
 .skill-row{
     width: 90%;
     margin-right: auto;
     margin-left: auto;
-    margin-top 100px;
-    margin-bottom 100px;
+    margin-top 625%;
+    margin-bottom 625%;
     text-align: justify;
     }
 .summary{
     text-align: justify;
-    padding: 10px;
-    margin: 10px
+    padding: 62.5%;
+    margin: 62.5%;
     }
 .text{
     position: absolute;
-    left: 460px;
-    top: 150px;
+    left: 2875%;
+    top: 937.5%;
     }
 .top-container{
     background-color: white;
-    height: 45.9rem;
+    height: 459%rem;
     position: relative;
-    padding-top 100px;
+    padding-top 625%;
     }
 
 .work-exp{
@@ -236,17 +235,17 @@ ul{
 .top-links{
     position: fixed;
     left: 60%;
-    margin-top: 20px;
+    margin-top: 125%;
     }
 .top-experience{
   -webkit-border-radius: 60;
   -moz-border-radius: 60;
-  border-radius: 60px;
+  border-radius: 375%;
   font-family: 'Montserrat', sans-serif;
   color: #056676;
-  font-size: 20px;
+  font-size: 125%;
   background: white;
-  padding: 10px 20px 10px 20px;
+  padding: 62.5% 125% 62.5% 125%;
   text-decoration: none;
     }
 
@@ -259,12 +258,12 @@ ul{
 .top-education{
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
-  border-radius: 60px;
+  border-radius: 375%;
   font-family: 'Montserrat', sans-serif;
   color: #056676;
-  font-size: 20px;
+  font-size: 125%;
   background: white;
-  padding: 10px 20px 10px 20px;
+  padding: 62.5% 125% 62.5% 125%;
   text-decoration: none;
     }
 
@@ -277,12 +276,12 @@ ul{
 .top-contact{
   -webkit-border-radius: 60;
   -moz-border-radius: 60;
-  border-radius: 60px;
+  border-radius: 375%;
   font-family: 'Montserrat', sans-serif;
   color: #056676;
-  font-size: 20px;
+  font-size: 125%;
   background: white;
-  padding: 10px 20px 10px 20px;
+  padding: 62.5% 125% 62.5% 125%;
   text-decoration: none;
 }
 
@@ -294,7 +293,7 @@ ul{
 /*-------------------------IDS-------------------------------*/
 
 #statement{
-    font-size: 15px;
+    font-size: 93.75%;
     margin-top: 0;
     left: auto;
     right: auto;
@@ -308,26 +307,26 @@ ul{
     right: auto;
     color: #056676;
     position: absolute;
-    margin-top: 23.0rem;
-    margin-left: 70rem;
+    margin-top: 2300%;
+    margin-left: 7000%;
 }
 .edu-skills{
-    padding-top: 50px;
+    padding-top: 312.5%;
 }
 .institution{
-    font-size: 0.80rem;
+    font-size: 80%;
 }
 .img-education{
-    padding: 30px;
+    padding: 187.5%;
     width: 10%;
     float: left;
-    margin-right: 30px;
+    margin-right: 187.5%;
     }
 .quote-edu{
-    margin-top: 15.0rem;
+    margin-top: 1500%;
     position: absolute;
-    margin-left: 30rem;
-    margin-right: 5rem;
+    margin-left: 3000%;
+    margin-right: 500%;
     font-size: 300%;
     text-align: right;
 
@@ -335,9 +334,9 @@ ul{
 
   .top-container-edu{
     background-color: white;
-    height: 45.9rem;
+    height: 4590%;
     position: relative;
-    padding-top 100px;
+    padding-top 625%;
     }
   .top-img-edu{
   margin-left: 10%;
@@ -353,7 +352,7 @@ ul{
 
 }
 .quote-work{
-    margin-top: 3.0rem;
+    margin-top: 300%;
     font-size: 300%;
     text-align: center;
     margin-right 5%;
@@ -369,21 +368,21 @@ ul{
     right: auto;
     color: #056676;
     position: absolute;
-    margin-top: 1.0rem;
-    margin-left: 77rem;
+    margin-top: 100%;
+    margin-left: 7700%;
 }
 .work-logo{
     width: 5%;
     float: left;
-    margin-right: 30px;
+    margin-right: 187.5%;
     }
 .work-description{
     clear: left;
-    margin-top: 50px;
+    margin-top: 312.5%;
     line: 2;
 }
 .workplace{
-    padding-top: 15px;
+    padding-top: 93.75%;
 }
 
 /*--------------------MORE DETAILS----------------*/
@@ -392,25 +391,25 @@ ul{
 .top-links-more-info{
     position: fixed;
     left: 85%;
-    margin-top: 20px;
+    margin-top: 125%;
     }
 .middle-container-more-info{
     background-color: #D0E8F2;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-top: 30px;
+    margin-left: 937.5%;
+    margin-right: 937.5%;
+    margin-top: 187.5%;
     }
 .offeredby{
     margin: 0;
     padding: 0;
-    font-size: 0.88rem;
+    font-size: 88%;
 }
 table{
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    margin-top: 30px;
-    padding-bottom: 30px;
+    margin-top: 187.5%;
+    padding-bottom: 187.5%;
 }
 th{
     font-family: 'Montserrat', sans-serif;
@@ -426,7 +425,7 @@ th{
 td{
     font-family: 'Merriweather', serif;
     color: #40514E;
-    font-size: 0.88rem;
+    font-size: 88%;
 }
 
 /*--------------------CONTACT----------------*/
@@ -442,9 +441,9 @@ td{
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
-    font-size: 1rem;
+    font-size: 100%;
     line-height: 2;
-    padding-top: 90px;
+    padding-top: 562.5%;
 
 }
 
