@@ -14,12 +14,10 @@ body {
     color: #40514E;
     }
 h1{
-    margin-top: 3.12rem;
+    margin-top: 0;
     margin-bottom: 0;
     font-family: 'Montez', cursive;
-    font-size: 562.5%;
-    left: auto;
-    right: auto;
+    font-size: 5.62rem;
     color: #056676;
     }
 h2{
@@ -110,14 +108,15 @@ ul{
     text-align: left;
 }
 .hi{
-    margin-top: 430px;
-    height: 300px;
+    margin-top: 5rem;
+    height: 20rem;
     position: relative;
     border: 0;
     bottom: 0;
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 0;
 
     }
 .footer-link{
@@ -218,9 +217,10 @@ ul{
     margin: 10px
     }
 .text{
-    position: absolute;
-    left: 460px;
-    top: 150px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
     }
 .top-container{
     background-color: white;
